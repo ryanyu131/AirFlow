@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "data": {
+        "city": "Toronto",
+        "state": "Ontario",
+        "country": "Canada",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -79.417722,
+                43.781611
+            ]
+        },
+        "current": {
+            "pollution": {
+                "ts": "2023-07-01T11:00:00.000Z",
+                "aqius": 128,
+                "mainus": "p2",
+                "aqicn": 64,
+                "maincn": "p2"
+            },
+            "weather": {
+                "ts": "2023-07-01T11:00:00.000Z",
+                "tp": 19,
+                "pr": 1011,
+                "hu": 90,
+                "ws": 1.45,
+                "wd": 213,
+                "ic": "02d"
+            }
+        }
+    }
+}
