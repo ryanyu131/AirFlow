@@ -9,7 +9,7 @@ With the utilization of **IQAir API**, we have developed a tool that enables use
 ## Images
 
 ![airflow](https://github.com/ryanyu131/AirFlow/assets/78236974/c01d0da6-186b-4700-beaa-65a8e22487c0)
-
+![airflow2](https://github.com/ryanyu131/AirFlow/assets/78236974/4355f60a-492a-4b33-a80f-c19073da1e78)
 
 
 ## Want to find out more? Check us out! :smile:
