@@ -12,12 +12,13 @@ With the utilization of **IQAir API**, we have developed a tool that enables use
 
 
 
-## Want to find out more? Check us out! :video_camera:
+## Want to find out more? Check us out! :smile:
 
 
 
 
 ## Authors
+| Name    |                                        |
+| ------- | -------------------------------------- |
 | Ryan Yu | [GitHub](https://github.com/ryanyu131) |
-| Huy Lam |  [GitHub](https://github.com/HuyCL) |"# AirFlow-" 
-"# AirFlow-" 
+| Huy Lam |  [GitHub](https://github.com/HuyCL)    |
