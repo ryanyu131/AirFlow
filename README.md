@@ -14,11 +14,12 @@ With the utilization of **IQAir API**, we have developed a tool that enables use
 
 ## Want to find out more? Check us out! :smile:
 
+[Video](https://youtu.be/P_sVnZm9iNg)
 [Demo Website](https://airflowplus-a5420d015fa6.herokuapp.com/)
 
 
 ## Authors
-| Name    |                                        |
-| ------- | -------------------------------------- |
-| Ryan Yu | [GitHub](https://github.com/ryanyu131) |
-| Huy Lam |  [GitHub](https://github.com/HuyCL)    |
+| Name    |                                        |                                                        |
+| ------- | -------------------------------------- | ------------------------------------------------------ |
+| Ryan Yu | [GitHub](https://github.com/ryanyu131) |  [Linkedin](https://www.linkedin.com/in/ryan-yu131/)   |
+| Huy Lam |  [GitHub](https://github.com/HuyCL)    | [Linkedine](https://www.linkedin.com/in/huy-lam-727488179/) |
