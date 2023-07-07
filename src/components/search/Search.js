@@ -11,7 +11,7 @@ function Search() {
     const [sdata, setSdata] = useState({})
 
     const searchData = () => {
-        const url = `http://api.airvisual.com/v2/city?city=${city}&state=${state}&country=${country}&key=fa1cf585-758f-4abf-8903-f770d03f6084`
+        const url = `https://api.airvisual.com/v2/city?city=${city}&state=${state}&country=${country}&key=fa1cf585-758f-4abf-8903-f770d03f6084`
 
         axios.get(url).then((response) => {
             setSdata(response.data)
